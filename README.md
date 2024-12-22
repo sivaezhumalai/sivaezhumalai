@@ -1,6 +1,6 @@
 # Hi there, I'm Siva Ezhumalai 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in learning and building innovative solutions.
+Welcome to my GitHub profile! I'm a passionate on Data Analyst, Data Science, Automation and developer with a keen interest in learning and building innovative solutions.
 
 ## About Me
 
